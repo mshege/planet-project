@@ -1,0 +1,38 @@
+PlanetNode|PlanetName
+A|Earth
+B|Moon
+C|Jupiter
+D|Venus
+E|Mars
+F|Saturn
+G|Uranus
+H|Pluto
+I|Neptune
+J|Mercury
+K|Alpha Centauri
+L|Luhman 16
+M|Epsilon Eridani
+N|Groombridge 34
+O|Epsilon Indi
+P|Tau Ceti
+Q|Kapteyn's star
+R|Gliese 687
+S|Gliese 674
+T|Gliese 876#
+U|Gliese 832
+V|Fomalhaut
+W|Virginis
+X|HD 102365
+Y|Gliese 176
+Z|Gliese 436
+A'|Pollux
+B'|Gliese 86
+C'|HIP 57050
+D'|Piscium
+E'|GJ 1214
+F'|Upsilon Andromedae
+G'|Gamma Cephei
+H'|HD 176051
+I'|Gliese 317
+J'|HD 38858
+K'|Ursae Majoris

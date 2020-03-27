@@ -1,0 +1,3 @@
+Needed more time to build the front-end but the API can be called using Postman and using link below;
+
+http://localhost:8080/shortest
